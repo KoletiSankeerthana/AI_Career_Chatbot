@@ -1,0 +1,14 @@
+Software Engineer
+Requires skills in Python, Java, JavaScript, System Design, Algorithms.
+Recommended courses: CS50, Cracking the Coding Interview.
+Average Salary: $120,000.
+
+Data Scientist
+Requires skills in Python, SQL, Machine Learning, Statistics, Data Visualization.
+Recommended courses: Andrew Ng's Machine Learning, Fast.ai.
+Average Salary: $130,000.
+
+Product Manager
+Requires skills in Product Strategy, User Research, Agile, Communication.
+Recommended courses: Inspired by Marty Cagan.
+Average Salary: $115,000.

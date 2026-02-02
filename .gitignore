@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+data/
+storage/
+vector_store/
+.gemini/
+.agent/
+brain/
+history_sessions.json
+user_profile.json
+chat_history.json
