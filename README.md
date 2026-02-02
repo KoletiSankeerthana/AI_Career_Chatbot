@@ -45,14 +45,15 @@ This project is designed to demonstrate **AI integration, UX thinking, and secur
 ## 📂 Project Structure
 
 ```
-AI_Career_Guidance/
+AI_Career_Chatbot/
+├── .streamlit/            # Streamlit configuration and theme
+├── knowledge_base/        # Documents / data used for AI context
 ├── .env.example           # Example environment variables
 ├── .gitignore             # Git ignore rules
+├── README.md              # Project documentation
 ├── app.py                 # Main Streamlit application
-├── utils.py               # Helper functions
-├── chat_store.json        # Persistent chat history
 ├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+└── utils.py               # Helper / utility functions
 ```
 
 ---
